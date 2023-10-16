@@ -1,4 +1,4 @@
-## under the Maximum A Posteriori (MAP) criterion ##
+## under the Maximum Posterior Probability (MPP) criterion ##
 mmp=function(data,q,t,burn_in,a,b,truealpha1,truealpha2,truelambda){
   mp=1
   mpmp1=rep(1,length(data))
