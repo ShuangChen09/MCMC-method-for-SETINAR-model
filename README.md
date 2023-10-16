@@ -11,6 +11,6 @@ claculate the likelihood
 ### step3
 set the priors and get the posteriors
 ### step4
-gibbs sampling to estimate the parameters of $\lambda$,$\alpha_1$, and $\alpha_2$
+gibbs sampling to estimate the parameters of $lambda,$\alpha_1, and $\alpha_2
 ### step5
 estimate the threshold based on MAP criteria and MH sampling on latent variables
