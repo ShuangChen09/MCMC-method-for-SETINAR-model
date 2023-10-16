@@ -7,7 +7,7 @@ This is a paper I came across while researching data cloning methods for estimat
 ### step1
 establish the setinar(2,1) model
 ### step2
-claculate the likelihood
+calculate the likelihood
 ### step3
 set the priors and get the posteriors
 ### step4
