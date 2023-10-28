@@ -1,6 +1,6 @@
 # MCMC-method-for-SETINAR-model
 Used bayesian MCMC method to estimate the parameters of self-exciting threshold integer-valued autoregressive model model.
-
+### Note: this is not the code for the data cloning method  
 
 This is a paper I came across while researching data cloning methods for estimating time series models, ([paper link](https://www.sciencedirect.com/science/article/pii/S0167947321002449)). I found it particularly interesting, so I reproduced its code.
 
